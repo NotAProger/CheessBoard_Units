@@ -1,0 +1,12 @@
+C:\Users\opiks\source\repos\ChessBoard\bin\Debug\ChessBoard.exe.config
+C:\Users\opiks\source\repos\ChessBoard\bin\Debug\ChessBoard.exe
+C:\Users\opiks\source\repos\ChessBoard\bin\Debug\ChessBoard.pdb
+C:\Users\opiks\source\repos\ChessBoard\bin\Debug\ChessBoard.xml
+C:\Users\opiks\source\repos\ChessBoard\obj\Debug\ChessBoard.vbproj.AssemblyReference.cache
+C:\Users\opiks\source\repos\ChessBoard\obj\Debug\ChessBoard.vbproj.SuggestedBindingRedirects.cache
+C:\Users\opiks\source\repos\ChessBoard\obj\Debug\ChessBoard.Resources.resources
+C:\Users\opiks\source\repos\ChessBoard\obj\Debug\ChessBoard.vbproj.GenerateResource.cache
+C:\Users\opiks\source\repos\ChessBoard\obj\Debug\ChessBoard.vbproj.CoreCompileInputs.cache
+C:\Users\opiks\source\repos\ChessBoard\obj\Debug\ChessBoard.exe
+C:\Users\opiks\source\repos\ChessBoard\obj\Debug\ChessBoard.xml
+C:\Users\opiks\source\repos\ChessBoard\obj\Debug\ChessBoard.pdb
